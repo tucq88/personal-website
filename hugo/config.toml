@@ -12,7 +12,7 @@ publishdir = "public"
 author = "Tu Chu Quang"
 title = "Hey there! Have a nice day"
 
-theme = "hugo-goa"
+theme = "goa"
 
 ## Hugo Built-in Features
 # disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
