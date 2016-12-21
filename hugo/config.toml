@@ -48,12 +48,12 @@ bootstrapjs = false
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
-    weight = 100
-    identifier = "log"
-    url = "https://medium.com/@tucq88"
-[[menu.main]]
     name = "About"
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    weight = 200
+    url = "https://medium.com/@tucq88"

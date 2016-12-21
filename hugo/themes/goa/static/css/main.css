@@ -76,7 +76,7 @@ html
 div.content
 {
     font-family: 'Crimson Text', serif;
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 300;
 
     color: #777;
@@ -238,7 +238,7 @@ section.meta {
 }
 .title
 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Crimson Text', serif;
     font-weight: 400;
 
     color: #555;
