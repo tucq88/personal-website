@@ -16,7 +16,7 @@ theme = "goa"
 
 ## Hugo Built-in Features
 # disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
+googleAnalytics = "UA-66148185-1"
 enableRobotsTXT = true
 
 ## Site Settings
@@ -41,7 +41,7 @@ twitter = "tucq88"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Tu Chu Quang"
+copyright = "© 2017. Tu Chu Quang"
 poweredby = true
 hightlightjs = false
 bootstrapjs = false
